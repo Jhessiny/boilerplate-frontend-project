@@ -24,5 +24,5 @@
 		// "no-ternary": 0
 		// "no-unused-vars": "off",
 	},
-	"ignorePatterns": ["tests/**/*.spec.js"]
+	"ignorePatterns": ["tests/**/*.spec.js", "dist/**/*.js"]
 }
